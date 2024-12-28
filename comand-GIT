@@ -1,0 +1,6 @@
+istilah / comand pada GIT
+- repo : folder project 
+- commit : rekaman / snapshot repo kita  pada keadaan tertentu 
+- hash : penanda unik pada sebuah commit 
+- branch : cabang bebas dari sebuah commit 
+- merge : menggabungkan dua buah atau lebih branch 
