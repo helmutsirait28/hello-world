@@ -1,4 +1,6 @@
-istilah / comand pada GIT
+GITHUB Merupakan sebuah layanan / website yang didalamnya menggunakan GIT 
+
+comand and description 
 - repo : folder project 
 - commit : rekaman / snapshot repo kita  pada keadaan tertentu 
 - hash : penanda unik pada sebuah commit 
