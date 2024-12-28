@@ -4,3 +4,4 @@ istilah / comand pada GIT
 - hash : penanda unik pada sebuah commit 
 - branch : cabang bebas dari sebuah commit 
 - merge : menggabungkan dua buah atau lebih branch 
+- remote : sumber yang memiliki repo
