@@ -1,6 +1,9 @@
-GITHUB Merupakan sebuah layanan / website yang didalamnya menggunakan GIT 
 
-comand and description 
+GIT adalah : VCS ( Version Control System ) / RCS ( Revision Control System ) / SCM ( Source Code Management)
+GIT dan GIThub merupakan dua hal yang berbeda yang satu adalah software, satu lagi adalah website 
+
+istilah / comand pada GIT
+
 - repo : folder project 
 - commit : rekaman / snapshot repo kita  pada keadaan tertentu 
 - hash : penanda unik pada sebuah commit 
