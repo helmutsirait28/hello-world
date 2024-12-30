@@ -2,3 +2,4 @@ GIT AND GITHUB
 - GIT : Software yang bisa melakukan vcs
 - GITHUB : Website / Layanan untuk mengelola project GIT 
 - Software VCS selain GIT, SUBVERSION, Mercurial, CVS 
+- forking != Clone 
